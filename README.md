@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou a Ana! ✨  </h1>
 <h4> Sou uma desenvolvedora apaixonada por criar soluções criativas e eficientes. </h4>
-Meu foco principal é a aprendizagem e desenvolvimento voltado para desenvolvimento web, e de sistemas. Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades técnicas.
+Meu foco principal é a aprendizagem e desenvolvimento voltado para desenvolvimento web, e de sistemas de gerenciamento. Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades técnicas.
 As minhas principais linhguagens de estudo atualmente são:
 <ul> 
   <li>java</li>
